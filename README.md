@@ -1,11 +1,7 @@
 
 # My first repository
-## All The Bright Places
-<p align="center">[All The Bright Places](https://www.fboxtv.com/movie/watch-all-the-bright-places-fbox-2913)</p>
-[All The Bright Places](https://www.fboxtv.com/movie/watch-all-the-bright-places-fbox-2913)
-
-
-
+## [All The Bright Places](https://www.fboxtv.com/movie/watch-all-the-bright-places-fbox-2913)
+![resena-critica-violet-y-finch-all-the-bright-places-pelicula-netflix-e1584490878189](https://github.com/user-attachments/assets/0f2caef2-4b0b-440a-aab9-3d51ec3e2d59)
 
   *The story of Violet Markey and Theodore Finch, who meet and change each other’s lives forever. As they struggle with the emotional and physical scars of their past, they come together, discovering that even the smallest places and moments can mean something. This compelling drama provides a refreshing and human take on the experience of mental illness, its impact on relationships, as well as the beauty and lasting impact of young love.*
 
