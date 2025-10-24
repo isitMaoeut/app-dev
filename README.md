@@ -1,8 +1,9 @@
 
 # My first repository
 ## All The Bright Places
-<p style="text-align: center;"> [All The Bright Places](https://www.fboxtv.com/movie/watch-all-the-bright-places-fbox-2913) </p>
-![resena-critica-violet-y-finch-all-the-bright-places-pelicula-netflix-e1584490878189](https://github.com/user-attachments/assets/09e6d930-27b3-4709-b07d-1a3023ec11de)
+<p align="center">[All The Bright Places](https://www.fboxtv.com/movie/watch-all-the-bright-places-fbox-2913)</p>
+[All The Bright Places](https://www.fboxtv.com/movie/watch-all-the-bright-places-fbox-2913)
+
 
 
 
