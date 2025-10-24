@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 	# **All The Bright Places**
-![1526b35d8885afe7613716fb2e07eea1](https://github.com/user-attachments/assets/aa6e7dd9-3383-4369-a236-a6d03e9cefa2)
+<div dir="ltr">![1526b35d8885afe7613716fb2e07eea1](https://github.com/user-attachments/assets/aa6e7dd9-3383-4369-a236-a6d03e9cefa2)
 
   *The story of Violet Markey and Theodore Finch, who meet and change each other’s lives forever. As they struggle with the emotional and physical scars of their past, they come together, discovering that even the smallest places and moments can mean something. This compelling drama provides a refreshing and human take on the experience of mental illness, its impact on relationships, as well as the beauty and lasting impact of young love.*
 
